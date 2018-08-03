@@ -1,2 +1,1 @@
-# nbody-problem
-# nbody-problem
+# nbody-problem written in Python.
